@@ -18,7 +18,7 @@ const int EXPOSURE_THRESHOLD = 3000;  // 12‑bit scale ⇒ 0–4095
 const int DEBOUNCE_MS        = 50;
 
 // ----- Wi‑Fi Credentials -----
-const char* WIFI_SSID = "hcguest";
+const char* WIFI_SSID = "Wokwi-GUEST";//"WiFiMyWay-f200";
 const char* WIFI_PWD  = "";//"17479f58ea";
 
 // ----- HTTP Server -----
